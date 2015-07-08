@@ -2,7 +2,7 @@
 
 Code for twitter bot [@DosTitulos](https://twitter.com/DosTitulos), it gets two titles from Google News and combines them into one new title.
 
-Based on [@TwoHeadlines](https://twitter.com/TwoHeadlines), a bot by [Darius Kazemi](https:/twitter.com/tinysubversions). TwoHeadlines js code [here](https://github.com/dariusk/twoheadlines).
+Based on [@TwoHeadlines](https://twitter.com/TwoHeadlines), a bot by [Darius Kazemi](https://twitter.com/tinysubversions). TwoHeadlines js code [here](https://github.com/dariusk/twoheadlines).
 
 My bot is written in Python and some functionality was added to the original code.
 
